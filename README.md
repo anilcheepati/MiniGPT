@@ -1,8 +1,9 @@
-# React + Vite
+# Mini GPT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Using React i created a this app , it similar kind of chatGPT version and used Gemini API key to fetch the data that whatever the user is typing in the input text = "Enter a prompt here" 
 
-Currently, two official plugins are available:
+Once you Click on the send icon button then the data is fetching from the gemini API server.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![mainPage](miniGPT/src/Images/Screen Shot 2024-08-06 at 1.19.36 PM.png)
+
+![DataPage](miniGPT/src/Images/Screen Shot 2024-08-06 at 1.20.59 PM.png)
